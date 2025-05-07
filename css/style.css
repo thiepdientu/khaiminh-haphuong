@@ -835,7 +835,7 @@ main{
 .timeline-media {
     background-color: var(--text-white);
     padding: 2px;
-    max-width: 200px;
+    max-width: 140px;
     border-radius: 50%;
 }
 .timeline-media img {
